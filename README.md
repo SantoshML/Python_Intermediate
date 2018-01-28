@@ -1,4 +1,5 @@
-hanksgiving 2015
+##Thanksgiving 2015##
+
 This directory contains the data behind the story Here’s What Your Part of America Eats On Thanksgiving.
 
 Using a SurveyMonkey poll, we asked 1,058 respondents on Nov. 17, 2015 the following questions about their Thanksgiving:
